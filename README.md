@@ -1,4 +1,4 @@
-**Heavy**
+## **Heavy**
 
 - *Triggers* - **3 Sets X 6-12 Reps**
     - Dumbbell Hammer Curls - Pull - Isolated - Brachioradialis
@@ -16,7 +16,7 @@
     - Lever Seated Fly - Push - Isolated - Chest
     - Ab Crunch - Pull - Isolated - Abs
 
-**Functional**
+## **Functional**
 
 - *Triggers* - **3 Sets x 5-10 Reps**
     - Romanian Deadlift - Pull - Compound - Hip
