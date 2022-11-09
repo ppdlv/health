@@ -1,3 +1,5 @@
+## Alternating Heavy/Functional Routine
+
 ## **Heavy**
 
 - *Triggers* - **3 Sets X 6-12 Reps**
