@@ -4,6 +4,12 @@
 
 # title: 10x Mind Pump Program
 # description: Personalised program to hit my target gains in 2-3 months! 🙃
-theme: minima
-minina:
-  skin: dark
+
+## Modernist
+remote_theme: pages-themes/modernist@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: 10x Mind Pump Program
+description: Personalised program to hit my target gains in 2-3 months! 🙃
+show_downloads: false
