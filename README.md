@@ -1,8 +1,8 @@
-## <sub>&mdash;*v*20.11.2022</sub> 
+## <sub>*v*20.11.2022</sub> 
 
 ## **Heavy**
 
-- *Triggers* - **3 Sets X 6-12 Reps**
+- *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
     - Incline Bench Press - Push - Compound - Upper Chest - **Staple**
     - Skull Crusher - Push - Isolated - Triceps
     - Dumbbell Hammer Curls - Pull - Isolated - Brachioradialis
@@ -10,40 +10,46 @@
     - Dumbbell Single Leg Split Squat- Push - Compound - Quads
     - Weighted Calf Raises - Push - Isolated - Calf
 
-- *Auxillary* - **3 Sets X 6-12 Reps**
+- *Auxillary*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
+    - Barbell Good Morning  - Pull - Isolated - Hamstrings
     - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
     - Barbell Curls - Pull - Isolated - Bicep
     - Barbell Squat - Push - Compound - Quads - **Staple**
     - Barbell Rows - Pull - Compound - Back - **Staple**
-    - Triceps Dip - Push - Compound - Tricep - **Staple**
+    - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     - Bodyweight Pull Up - Pull - Compound - Lats - **Staple**
+    - Triceps Dip - Push - Compound - Tricep - **Staple**
     - Lever Seated Fly - Push - Isolated - Chest
     - Reverse Lever Seated Fly - Push - Isolated - Back
-    - Cable Standing Rear Delt Row - Pull - Compound - Posterior Delt
+    - Cable Standing Rear Delt Row - Pull - Compound - Posterior Delt - **Staple**
     - Ab Crunch - Pull - Isolated - Abs
 
-- *Specialised* - **3 Sets x 5-10 Reps**
-    - Suspended Single Leg Squat - Push - Coompound - **Staple**
+- *Specialised*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
+    - Suspended Single Leg Squat - Push - Compound - **Staple**
+    - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
 
 ## **Functional**
 
-- *Triggers* - **3 Sets X 5-10 Reps**
+- *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 5-10 Reps**)
     - Dumbbell Fly - Push - Isolated - Chest
     - Dumbbell/Barbell Pullover - Push/Pull - Isolated - Chest/Lats
     - Dumbbell Single Leg Split Squat- Push - Compound - Quads
-    - Bench Press - Push - Compound - Chest
+    - Bench Press - Push - Compound - Chest - **Staple**
+    - Barbell Good Morning  - Pull - Isolated - Hamstrings
+    - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
 
-- *Auxillary* - **3 Sets x 5-10 Reps**
+- *Auxillary*&mdash;**4 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
     - Romanian Deadlift - Pull - Compound - Hip
     - Deadlifts - Pull - Compound - Glute - **Staple**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     - Bodyweight Pull Up - Pull - Compound - Lats - - **Staple**
     - Triceps Dip - Push - Compound - Tricep - **Staple**
     - Cable Curl - Pull - Isolated - Bicep
-    - Cable Standing Rear Delt Row - Pull - Compound - Posterior Delt
+    - Cable Standing Rear Delt Row - Pull - Compound - Posterior Delt - **Staple**
     - Cable Seated Row - Pull - Compound - Back
 
-- *Specialised* - **3 Sets x 5-10 Reps**
+- *Specialised*&mdash;**5 Sets X 5 Reps** <sup>(**3 Sets X 5-10 Reps**)
+    - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
     - Calf Raises - Push - Isolated - Calf
     - Side Split Squats - Push - Compound - Glute
     - Reverse Crunch - Pull - Isolated - Abs
