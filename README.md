@@ -25,16 +25,17 @@
     - Ab Crunch - Pull - Isolated - Abs
 
 - *Specialised*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
-    - Suspended Single Leg Squat - Push - Compound - **Staple**
     - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
+    - Suspended Single Leg Squat - Push - Compound - **Staple**
+    - Overhead Carry - Push - Compound - Back - **Staple**
 
 ## **Functional**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 5-10 Reps**)
+    - Bench Press - Push - Compound - Chest - **Staple**
     - Dumbbell Fly - Push - Isolated - Chest
     - Dumbbell/Barbell Pullover - Push/Pull - Isolated - Chest/Lats
     - Dumbbell Single Leg Split Squat- Push - Compound - Quads
-    - Bench Press - Push - Compound - Chest - **Staple**
     - Barbell Good Morning  - Pull - Isolated - Hamstrings
     - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
 
