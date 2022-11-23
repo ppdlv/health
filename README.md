@@ -6,15 +6,17 @@
     - Incline Bench Press - Push - Compound - Upper Chest - **Staple**
     - Skull Crusher - Push - Isolated - Triceps
     - Dumbbell Hammer Curls - Pull - Isolated - Brachioradialis
-    - Dumbbell Lateral Raise - Pull - Isolated - Side Delt
-    - Dumbbell Single Leg Split Squat- Push - Compound - Quads
+    >   -   Dumbbell Lateral Raise - Pull - Isolated - Side Delt
+    >   -   Dumbbell Single Leg Split Squat- Push - Compound - Quads
+    >       -   **4 Sets x 6 Reps**
     - Weighted Calf Raises - Push - Isolated - Calf
 
 - *Auxillary*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
     - Barbell Good Morning  - Pull - Isolated - Hamstrings
     - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
     - Barbell Curls - Pull - Isolated - Bicep
-    - Barbell Squat - Push - Compound - Quads - **Staple**
+    >   - Barbell Squat - Push - Compound - Quads - **Staple**
+    >       - **5 Sets x 5 Reps**
     - Barbell Rows - Pull - Compound - Back - **Staple**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     - Bodyweight Pull Up - Pull - Compound - Lats - **Staple**
