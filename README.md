@@ -15,15 +15,15 @@ last edited on: **24 Nov**
     - Barbell Good Morning  - Pull - Isolated - Hamstrings
     - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
     - Barbell Curls - Pull - Isolated - Bicep
-        - Barbell Squat - Push - Compound - Quads - **Staple**
-            - **5 Sets x 5 Reps**
+    - Barbell Squat - Push - Compound - Quads - **Staple**
+        - **5 Sets x 5 Reps**
     - Barbell Rows - Pull - Compound - Back - **Staple**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
-    > - Bodyweight Pull Up - Pull - Compound - Lats - - **Staple** <br>
+    > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
     - Lever Seated Fly - Push - Isolated - Chest
     - Reverse Lever Seated Fly - Push - Isolated - Back
-    - Cable Standing Rear Delt Row - Pull - Compound - Posterior Delt - **Staple**
+    - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
     - Ab Crunch - Pull - Isolated - Abs
 
 - *Specialised*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
@@ -42,18 +42,18 @@ last edited on: **24 Nov**
     - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
 
 - *Auxillary*&mdash;**4 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
-    - Romanian Deadlift - Pull - Compound - Hip
+    - Romanian Deadlift - Pull - Compound - Hip - **Staple**
     - Deadlifts - Pull - Compound - Glute - **Staple**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
-    > - Bodyweight Pull Up - Pull - Compound - Lats - - **Staple** <br>
+    > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
     - Cable Seated Row - Pull - Compound - Back
     - Cable Curl - Pull - Isolated - Bicep
-    - Cable Standing Rear Delt Row - Pull - Compound - Posterior Delt - **Staple**
+    - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
 
 - *Specialised*&mdash;**5 Sets X 5 Reps** <sup>(**3 Sets X 5-10 Reps**)
     - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
-    - Suspended Single Leg Squat - Push - Coompound - **Staple**
+    - Suspended Single Leg Squat - Push - Compound - **Staple**
     - Calf Raises - Push - Isolated - Calf
     - Side Split Squats - Push - Compound - Glute
     - Reverse Crunch - Pull - Isolated - Abs
