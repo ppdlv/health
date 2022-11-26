@@ -34,10 +34,11 @@ last edited on: **24 Nov**
 ## **Functional**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 5-10 Reps**)
-    - Bench Press - Push - Compound - Chest - **Staple**
     - Dumbbell Fly - Push - Isolated - Chest
+    - Bench Press - Push - Compound - Chest - **Staple**
     - Dumbbell/Barbell Pullover - Push/Pull - Isolated - Chest/Lats
     - Dumbbell Single Leg Split Squat- Push - Compound - Quads
+        -   **4 Sets x 6 Reps**
     - Barbell Good Morning  - Pull - Isolated - Hamstrings
     - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
 
