@@ -1,9 +1,9 @@
 ## v20.11.2022
-last edited on: **4 Dec**
+last edited on: **8 Dec**
 ## **Heavy**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
-    - Dumbbell Fly - Push - Isolated - Chest
+    - Incline Dumbbell Fly - Push - Isolated - Chest
     - Incline Bench Press - Push - Compound - Upper Chest - **Staple**
     - Skull Crusher - Push - Isolated - Triceps
     - Dumbbell Lateral Raise - Pull - Isolated - Side Delt - **4 Sets x 6 Reps**
@@ -19,7 +19,6 @@ last edited on: **4 Dec**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
-    - Lever Seated Fly - Push - Isolated - Chest
     - Reverse Lever Seated Fly - Push - Isolated - Back
     - Cable Hammer Curls - Pull - Isolated - Brachioradialis
     - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
@@ -60,5 +59,4 @@ last edited on: **4 Dec**
     - Ab Crunch - Pull - Isolated - Abs
     - Reverse Crunch - Pull - Isolated - Abs
     - Overhead Carry - Push - Compound - **Staple**
-    - Kettlebell Windmill - Push - Isolated
-        -   **3 Sets X 5 Reps**
+    - Kettlebell Windmill - Push - Isolated - **3 Sets X 5 Reps**
