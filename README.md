@@ -1,16 +1,16 @@
 ## v20.11.2022
-last edited on: **8 Dec**
+last edited on: **11 Dec**
 ## **Heavy**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
     - Incline Dumbbell Fly - Push - Isolated - Chest
     - Incline Bench Press - Push - Compound - Upper Chest - **Staple**
     - Skull Crusher - Push - Isolated - Triceps
-    - Dumbbell Lateral Raise - Pull - Isolated - Side Delt - **4 Sets x 6 Reps**
     - Dumbbell Single Leg Split Squat- Push - Compound - Quads - **4 Sets x 5 Reps**
+    - Dumbbell Lateral Raise - Pull - Isolated - Side Delt - **4 Sets x 6 Reps**
 
 - *Auxillary*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
-    - Weighted Calf Raises - Push - Isolated - Calf
+    - *Weighted Calf Raises - Push - Isolated - Calf*
     - Barbell Curls - Pull - Isolated - Bicep
     > - Barbell Good Morning - Pull - Isolated - Hamstrings <br>
     > - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
@@ -47,9 +47,9 @@ last edited on: **8 Dec**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
+    - Incline Sit-up - Pull - Compound - Abs
     - Cable Seated Row - Pull - Compound - Back
     - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
-    - Incline Sit-up - Pull - Compound - Abs
 
 - *Specialised*&mdash;**4 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
     - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
