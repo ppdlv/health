@@ -1,5 +1,5 @@
 ## v20.11.2022
-last edited on: **11 Dec**
+last edited on: **27 Dec**
 ## **Heavy**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
@@ -11,17 +11,16 @@ last edited on: **11 Dec**
 
 - *Auxillary*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
     - *Weighted Calf Raises - Push - Isolated - Calf*
-    - Barbell Curls - Pull - Isolated - Bicep
     > - Barbell Good Morning - Pull - Isolated - Hamstrings <br>
     > - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
-    - Barbell Squat - Push - Compound - Quads - **Staple** - **4 Sets x 5 Reps**
+    - Barbell Squat - Push - Compound - Quads - **Staple** - **5 Sets x 5 Reps**
     - Barbell Rows - Pull - Compound - Back - **Staple**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
-    - Reverse Lever Seated Fly - Push - Isolated - Back
+    > - Reverse Lever Seated Fly - Push - Isolated - Back <br>
+    > - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
     - Cable Hammer Curls - Pull - Isolated - Brachioradialis
-    - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
     - Incline Sit-up - Pull - Compound - Abs
 
 - *Specialised*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
@@ -48,7 +47,7 @@ last edited on: **11 Dec**
     > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
     - Incline Sit-up - Pull - Compound - Abs
-    - Cable Seated Row - Pull - Compound - Back
+    - Cable Wide Grip Seated Row - Pull - Compound - Back
     - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
 
 - *Specialised*&mdash;**4 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
