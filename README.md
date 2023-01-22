@@ -1,5 +1,5 @@
-## v20.11.2022
-last edited on: **27 Dec**
+## v20.11.2022-20.02.2023
+last edited on: **23 Jan**
 ## **Heavy**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
@@ -24,8 +24,8 @@ last edited on: **27 Dec**
     - Incline Sit-up - Pull - Compound - Abs
 
 - *Specialised*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
-    - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
-    - Weighted Side Bend - Pull - Isolated - Obliques - **Staple**
+    - Weighted Back Raise - Pull - Compound - Hamstrings - 
+    - Weighted Side Bend - Pull - Isolated - Obliques - 
     - Suspended Single Leg Squat - Push - Compound - **Staple**
     - Overhead Carry - Push - Compound - Back - **Staple**
 
@@ -51,8 +51,8 @@ last edited on: **27 Dec**
     - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
 
 - *Specialised*&mdash;**4 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
-    - Weighted Back Raise - Pull - Compound - Hamstrings - **Staple**
-    - Weighted Side Bend - Pull - Isolated - Obliques - **Staple**
+    - Weighted Back Raise - Pull - Compound - Hamstrings
+    - Weighted Side Bend - Pull - Isolated - Obliques
     - Suspended Single Leg Squat - Push - Compound - **Staple**
     - Side Split Squats - Push - Compound - Glute
     - Ab Crunch - Pull - Isolated - Abs
