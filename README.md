@@ -1,5 +1,5 @@
-## v20.11.2022-20.02.2023
-last edited on: **23 Jan**
+## From Wimpy to Healthy
+**20.11.2022-20.02.2023**&mdash;last revision: **23 Jan**
 ## **Heavy**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
@@ -36,19 +36,18 @@ last edited on: **23 Jan**
     - Bench Press - Push - Compound - Chest - **Staple**
     - Dumbbell Pullover - Push/Pull - Isolated - Chest/Lats
 
-- *Auxillary*&mdash;**3 Sets X 5 Reps** <sup>(**3 Sets X 5-10 Reps**)
+- *Auxillary*&mdash;**3 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
     - *Weighted Calf Raises - Push - Isolated - Calf*
     - Barbell Curls - Pull - Isolated - Bicep
-    > - Barbell Good Morning - Pull - Isolated - Hamstrings <br>
-    > - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
+    - Barbell Overhead Press - Push - Compound - Front Delt - **Staple**
     - Romanian Deadlift - Pull - Compound - Hip - **Staple**
     - Deadlifts - Pull - Compound - Glute - **Staple**
     - Lat Pulldowns - Pull - Compound - Lats - **Staple**
     > - Bodyweight Pull Up - Pull - Compound - Lats - **Staple** <br>
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
-    - Incline Sit-up - Pull - Compound - Abs
-    - Cable Wide Grip Seated Row - Pull - Compound - Back
     - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
+    - Cable Wide Grip Seated Row - Pull - Compound - Back
+    - Incline Sit-up - Pull - Compound - Abs
 
 - *Specialised*&mdash;**4 Sets X 6 Reps** <sup>(**3 Sets X 5-10 Reps**)
     - Weighted Back Raise - Pull - Compound - Hamstrings
