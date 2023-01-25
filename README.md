@@ -1,5 +1,5 @@
-## From Wimpy to Healthy
-**20.11.2022-20.02.2023**&mdash;last revision: **23 Jan**
+## Wimpy to Healthy
+**20.Nov-20.Feb**&mdash;last revision: **25 Jan**
 ## **Heavy**
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
@@ -20,12 +20,14 @@
     > - Triceps Dip - Push - Compound - Tricep - **Staple**
     > - Reverse Lever Seated Fly - Push - Isolated - Back <br>
     > - Cable Standing Rear Delt Row - Pull - Compound - Rear Delt - **Staple**
+    > - Cable One Arm Rear Lateral Raise - Pull - Isolated - Rear Delt - **Staple**
+    > - Cable One Arm Standing Cross Row - Pull - Compound - Rear Delt - **Staple**
     - Cable Hammer Curls - Pull - Isolated - Brachioradialis
     - Incline Sit-up - Pull - Compound - Abs
 
 - *Specialised*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
-    - Weighted Back Raise - Pull - Compound - Hamstrings - 
-    - Weighted Side Bend - Pull - Isolated - Obliques - 
+    - Weighted Back Raise - Pull - Compound - Hamstrings
+    - Weighted Side Bend - Pull - Isolated - Obliques
     - Suspended Single Leg Squat - Push - Compound - **Staple**
     - Overhead Carry - Push - Compound - Back - **Staple**
 
