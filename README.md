@@ -1,4 +1,3 @@
-## Wimpy to Healthy
 **20.Nov-20.Feb**&mdash;last revision: **25 Jan**
 ## **Heavy**
 
