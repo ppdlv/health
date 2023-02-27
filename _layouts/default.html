@@ -1,51 +1,83 @@
-<!doctype html>
-<html lang="{{ site.lang | default: " en-US" }}">
+---
+layout: default
+title: Tabular Navigation Example
+---
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+# Tabular Navigation Example
 
-    {% seo %}
+This is an example of how you can use tabular navigation on a Jekyll markdown page.
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<div class="tab">
+    <button class="tablinks" onclick="openTab(event, 'Section1')">Section 1</button>
+    <button class="tablinks" onclick="openTab(event, 'Section2')">Section 2</button>
+    <button class="tablinks" onclick="openTab(event, 'Section3')">Section 3</button>
+</div>
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+<div id="Section1" class="tabcontent">
+    <h2>Section 1</h2>
+    <p>This is the content for section 1.</p>
+</div>
 
-    {% include head-custom.html %}
-</head>
+<div id="Section2" class="tabcontent">
+    <h2>Section 2</h2>
+    <p>This is the content for section 2.</p>
+</div>
 
-<body>
-    <div class="wrapper">
-        <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless
-            %}>
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            {% if site.description or site.github.project_tagline %}
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
-            {% endif %}
-            <ul>
-                {% if site.show_downloads %}
-                <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-                <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-                {% endif %}
-            </ul>
-        </header>
-        <section>
+<div id="Section3" class="tabcontent">
+    <h2>Section 3</h2>
+    <p>This is the content for section 3.</p>
+</div>
 
-            {{ content }}
+<script>
+    function openTab(evt, tabName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+</script>
 
-        </section>
-    </div>
-    <footer>
-        {% if site.github.is_project_page %}
-        <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>Hosted on GitHub Pages</p>
-    </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
-</body>
+<style>
+    /* Style the tab */
+    .tab {
+        overflow: hidden;
+        border: 1px solid #ccc;
+        background-color: #f1f1f1;
+    }
 
-</html>
+    /* Style the buttons inside the tab */
+    .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+    }
+
+    /* Change background color of buttons on hover */
+    .tab button:hover {
+        background-color: #ddd;
+    }
+
+    /* Create an active/current tablink class */
+    .tab button.active {
+        background-color: #ccc;
+    }
+
+    /* Style the tab content */
+    .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        border: 1px solid #ccc;
+        border-top: none;
+    }
+</style>
