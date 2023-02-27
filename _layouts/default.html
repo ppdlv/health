@@ -28,28 +28,28 @@
             {% endif %}
         </header>
         <section>
-    </div>
-    <div class="tab">
-        <button class="tablinks" onclick="openTab(event, 'Section1')">Phase 1</button>
-        <button class="tablinks" onclick="openTab(event, 'Section2')">Phase 2</button>
-        <button class="tablinks" onclick="openTab(event, 'Section3')">Phase 3</button>
-    </div>
+            <div class="tab">
+                <button class="tablinks" onclick="openTab(event, 'Section1')">Phase 1</button>
+                <button class="tablinks" onclick="openTab(event, 'Section2')">Phase 2</button>
+                <button class="tablinks" onclick="openTab(event, 'Section3')">Phase 3</button>
+            </div>
 
-    <div id="Section1" class="tabcontent">
-        <h2>Phase 1 - Build Strength</h2>
-        {{ content }}
-    </div>
+            <div id="Section1" class="tabcontent">
+                <h2>Phase 1 - Build Strength</h2>
+                {{ content }}
+            </div>
 
-    <div id="Section2" class="tabcontent">
-        <h2>Phase 2 - Sculp</h2>
-        {% include index2.html %}
-    </div>
+            <div id="Section2" class="tabcontent">
+                <h2>Phase 2 - Sculp</h2>
+                {% include index2.html %}
+            </div>
 
-    <div id="Section3" class="tabcontent">
-        <h2>Phase 3 - Trancend</h2>
-        {% include index3.html %}
+            <div id="Section3" class="tabcontent">
+                <h2>Phase 3 - Trancend</h2>
+                {% include index3.html %}
+            </div>
+        </section>
     </div>
-    </section>
     <script>
         function openTab(evt, tabName) {
             var i, tabcontent, tablinks;
