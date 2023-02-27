@@ -1,11 +1,23 @@
----
-layout: default
-title: Tabular Navigation Example
----
+<!doctype html>
+<html lang="{{ site.lang | default: " en-US" }}">
 
-# Tabular Navigation Example
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-This is an example of how you can use tabular navigation on a Jekyll markdown page.
+    {% seo %}
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    {% include head-custom.html %}
+    {% include favicon.ico %}
+</head>
 
 <div class="tab">
     <button class="tablinks" onclick="openTab(event, 'Section1')">Section 1</button>
@@ -16,6 +28,7 @@ This is an example of how you can use tabular navigation on a Jekyll markdown pa
 <div id="Section1" class="tabcontent">
     <h2>Section 1</h2>
     <p>This is the content for section 1.</p>
+    {{ content }}
 </div>
 
 <div id="Section2" class="tabcontent">
