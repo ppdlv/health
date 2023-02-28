@@ -1,5 +1,5 @@
 ---
-layout: aesthetic.html
+layout: aesthetic
 ---
 
 **20.Nov-20.Feb**&mdash;last revision: **25 Jan**
