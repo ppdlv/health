@@ -1,5 +1,5 @@
 ---
-layout: my-layout
+layout: default.html
 ---
 **20.Nov-20.Feb**&mdash;last revision: **25 Jan**
 ## **Heavy**
