@@ -1,3 +1,7 @@
+---
+my_content: {% include page2.md %}
+---
+
 **20.Nov-20.Feb**&mdash;last revision: **25 Jan**
 
 ## **Heavy**
