@@ -11,3 +11,6 @@ remote_theme: pages-themes/modernist@v0.2.0
 title: Wimpy to Healthy
 description: 10x Mind Pump - Grind, Rinse, Repeat!
 show_downloads: false
+
+google_analytics: 
+  tracking_id: G-B0ME6CJLLF
