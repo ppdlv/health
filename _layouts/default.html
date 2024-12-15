@@ -1,18 +1,19 @@
 <!doctype html>
-<html lang="{{ site.lang | default: " en-US" }}">
-
+<html lang="{{ site.lang | default: 'en-US' }}">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+    <link rel="stylesheet" href="{{ '/assets/css/tabs.css' | relative_url }}">
+    
+    <script src="{{ '/assets/js/tabs.js' | relative_url }}" defer></script>
+    
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5.js"></script>
     <![endif]-->
 
     {% include head-custom.html %}
@@ -20,105 +21,49 @@
 
 <body>
     <div class="wrapper">
-        <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless
-            %}>
+        <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
             <h1>{{ site.title | default: site.github.repository_name }}</h1>
             {% if site.description or site.github.project_tagline %}
             <p>{{ site.description | default: site.github.project_tagline }}</p>
             {% endif %}
         </header>
+        
         <section>
-            <div class="tab">
-                <button class="tablinks" onclick="openTab(event, 'Section1')">Strength</button>
-                <button class="tablinks" onclick="openTab(event, 'Section2')">Aesthetic</button>
-                <button class="tablinks" onclick="openTab(event, 'Section3')">Symmetry</button>
-                <button class="tablinks" onclick="openTab(event, 'Section4')">Tips</button>
-                <button class="tablinks" onclick="openTab(event, 'Section5')">Full Body</button>
-            </div>
+            <nav class="tab-navigation">
+                <button class="tab-link" data-tab="Section1">Strength</button>
+                <button class="tab-link" data-tab="Section2">Aesthetic</button>
+                <button class="tab-link" data-tab="Section3">Symmetry</button>
+                <button class="tab-link" data-tab="Section4">Tips</button>
+                <button class="tab-link" data-tab="Section5">Full Body</button>
+            </nav>
 
-            <div id="Section1" class="tabcontent">
-                <!--- <h3>Phase 1 - Build Strength</h3> -->
+            <div id="Section1" class="tab-content">
                 {{ content }}
             </div>
 
-            <div id="Section2" class="tabcontent">
-                <!-- <h3>Phase 2 - Sculp Muscles</h3> -->
+            <div id="Section2" class="tab-content">
                 {% include index2.html %}
             </div>
 
-            <div id="Section3" class="tabcontent">
-                <!-- <h3>Phase 3 - Apply Symmetry</h3> -->
+            <div id="Section3" class="tab-content">
                 {% include index3.html %}
             </div>
 
-            <div id="Section4" class="tabcontent">
+            <div id="Section4" class="tab-content">
                 {% include addendum.html %}
             </div>
-            <div id="Section5" class="tabcontent">
+
+            <div id="Section5" class="tab-content">
                 {% include fullbody.html %}
             </div>
         </section>
     </div>
-    <script>
-        function openTab(evt, tabName) {
-            var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            tablinks = document.getElementsByClassName("tablinks");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-            }
-            document.getElementById(tabName).style.display = "block";
-            evt.currentTarget.className += " active";
-        }
-    </script>
 
-    <style>
-        /* Style the tab */
-        .tab {
-            overflow: hidden;
-            border: 1px solid #ccc;
-            background-color: #f1f1f1;
-        }
-
-        /* Style the buttons inside the tab */
-        .tab button {
-            background-color: inherit;
-            float: left;
-            border: none;
-            outline: none;
-            cursor: pointer;
-            padding: 14px 16px;
-            transition: 0.3s;
-        }
-
-        /* Change background color of buttons on hover */
-        .tab button:hover {
-            background-color: #ddd;
-        }
-
-        /* Create an active/current tablink class */
-        .tab button.active {
-            background-color: #ccc;
-        }
-
-        /* Style the tab content */
-        .tabcontent {
-            display: none;
-            padding: 6px 12px;
-            border: 1px solid #ccc;
-            border-top: none;
-        }
-    </style>
     <footer>
         {% if site.github.is_project_page %}
         <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p>Hosted on GitHub Pages</p>
     </footer>
-    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 </body>
-
 </html>
