@@ -1,5 +1,4 @@
 _Last Revision: **30 Apr 2023**_
-
 ## **Heavy**
 ---
 

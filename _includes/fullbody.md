@@ -1,6 +1,8 @@
 _Last revision: **01 Jul 2024**_
+## **Renaissance Periodization**
+_Note: Weight selection is dependent on fitness target._
 
-*Disclaimer: Weight selection is dependent on fitness target.*
+---
 
 ## Superset 1
 - **Pushup**: 12 then 10 reps  

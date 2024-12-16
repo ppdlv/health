@@ -1,7 +1,5 @@
 _Last Revision: **08 Mar 23**_
-
-**50-75% Weight of Phase 1**
-
+## **50-75% Weight of Phase 1**
 ---
 
 ## Primary Routine
