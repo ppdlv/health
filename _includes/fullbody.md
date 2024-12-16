@@ -1,34 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Renaissance Periodisation Workout</title>
-</head>
-<body>
-    <p>Last revision:<strong><time datetime="2024-12-16">16 Dec 2024</time></strong></p>
-    <h1>Renaissance Periodisation</h1>
+_Last revision: **01 Jul 2024**_
 
-    <p><strong>1 Jul 2024</strong></p>
+*Disclaimer: Weight selection is dependent on fitness target.*
 
-    <p><em>Disclaimer: Weigh selection is dependent on fitness target.</em></p>
+## Superset 1
+- **Pushup**: 12 then 10 reps  
+- **Dumbbell Bent-over Row**: (75% of 1RM) 14 then 10 reps  
 
-    <h2>Superset 1</h2>
-    <ul>
-        <li>Pushup - <strong>12 then 10 Reps</strong></li>
-        <li>Dumbbell Bent-over Row - (75% of 1RM) <strong>14 then 10 Reps</strong></li>
-    </ul>
+## Superset 2
+- **Dumbbell Lateral Raise**: 15 then 9 reps  
+- **Squat**: (50% of 1RM) 12 then 10 reps  
 
-    <h2>Superset 2</h2>
-    <ul>
-        <li>Dumbbell Lateral Raise - <strong>15 then 9 Reps</strong></li>
-        <li>Squat - (50% of 1RM) <strong>12 then 10 Reps</strong></li>
-    </ul>
-
-    <h2>Superset 3</h2>
-    <ul>
-        <li>Flatbench Dumbbell Curl - <strong>12 then 10 Reps</strong></li>
-        <li>Dumbbell Skullcrusher - <strong>12 then 10 Reps</strong></li>
-        <li>Dumbbell Stiff Leg Deadlift - <strong>10 then 8 Reps</strong></li>
-    </ul>
-</body>
-</html>
+## Superset 3
+- **Flatbench Dumbbell Curl**: 12 then 10 reps  
+- **Dumbbell Skullcrusher**: 12 then 10 reps  
+- **Dumbbell Stiff Leg Deadlift**: 10 then 8 reps  

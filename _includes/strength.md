@@ -1,5 +1,8 @@
-**20.Nov-20.Feb**&mdash;last revision: **25 Jan**
+_Last Revision: **25 Jan 23**_
+
 ## **Heavy**
+
+---
 
 - *Triggers*&mdash;**3 Sets X 8 Reps** <sup>(**3 Sets X 6-12 Reps**)
     - Incline Dumbbell Fly - Push - Isolated - Chest

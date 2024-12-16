@@ -1,8 +1,5 @@
-# Aesthetic Routine
-
 _Last Revision: **08 Mar 23**_
 
-## Aesthetic Routine  
 **50-75% Weight of Phase 1**
 
 ---
